@@ -1,1 +1,13 @@
-
+Horizon Graphs
+Choropleth Maps
+Dorling cartogram
+Node-Link Diagrams
+Reingold-Tilford algorithm
+Adjacency Diagrams
+Force-Directed Layout
+Icicle
+Sunburst Layout
+Enclosure Diagrams
+Squarified treemaps 
+jigsaw
+Arc diagram 
